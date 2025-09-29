@@ -1,13 +1,13 @@
-package yunrry.codintest;
+package yunrry.codingtest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CodinTestApplication {
+public class CodingTestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CodinTestApplication.class, args);
+        SpringApplication.run(CodingTestApplication.class, args);
     }
 
 }

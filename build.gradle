@@ -6,7 +6,7 @@ plugins {
 
 group = 'yunrry'
 version = '0.0.1-SNAPSHOT'
-description = 'CodinTest'
+description = 'CodingTest'
 
 java {
     toolchain {

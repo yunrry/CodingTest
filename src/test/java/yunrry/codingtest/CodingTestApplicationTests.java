@@ -1,10 +1,10 @@
-package yunrry.codintest;
+package yunrry.codingtest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CodinTestApplicationTests {
+class CodingTestApplicationTests {
 
     @Test
     void contextLoads() {
